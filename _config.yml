@@ -7,13 +7,13 @@ url: 'https://andrewkats9.github.io'
 baseurl: 
 
 # Title of the Site
-title: Andreas Katsaro
+title: Andreas Katsaros
 # Description of the Site
 description: A Data Science portfolio
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: /assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: Data, Science, Data Science, Andreas, Katsaros, Analysis, Analytics, Python, SQL, Machine Learning
 # URL for the Image of custom Favicon
 favicon-url: 
 
@@ -29,25 +29,25 @@ instagram_username: andreaska__
 linkedin_username: andreas-katsaros
 github_username:  andrewkats9
 youtube_channel_id: UCC5BC32t-UmCKCTgCIWeVLA
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+reddit_username: 
+behance_username: 
+dribbble_username: 
+spotify_username: 
 
 # Google Analytics
-google-analytics: UA-163806439-1
+# google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: thedevslot
+# disqus-shortname: thedevslot
 
-# Name of the Author
-author-name: TheDevsLot
+# # Name of the Author
+# author-name: TheDevsLot
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: /assets/images/IMG_20240505_230906.jpg
 # 60 Words About the Author
 author-about: With a mathematics background, Data Science training, and business analyst experience, I bring strong analytical and problem-solving skills. Eager to apply these in a Data Scientist role.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://github.com/andrewkats9
 
 # SASS
 sass:
